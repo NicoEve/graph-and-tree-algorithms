@@ -1,3 +1,8 @@
+cmake-build-debug/
+.idea/
+*.out
+*.in
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
