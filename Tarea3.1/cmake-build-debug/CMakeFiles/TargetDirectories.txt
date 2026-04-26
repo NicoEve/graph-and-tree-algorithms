@@ -1,0 +1,3 @@
+C:/Users/Nicolas/Desktop/Universidad/Agra/Tarea3.1/cmake-build-debug/CMakeFiles/Tarea3_1.dir
+C:/Users/Nicolas/Desktop/Universidad/Agra/Tarea3.1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nicolas/Desktop/Universidad/Agra/Tarea3.1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

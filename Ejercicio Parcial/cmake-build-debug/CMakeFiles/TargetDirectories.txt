@@ -1,0 +1,3 @@
+C:/Users/Nicolas/Desktop/Universidad/Agra/Ejercicio Parcial/cmake-build-debug/CMakeFiles/Ejercicio_Parcial.dir
+C:/Users/Nicolas/Desktop/Universidad/Agra/Ejercicio Parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nicolas/Desktop/Universidad/Agra/Ejercicio Parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
